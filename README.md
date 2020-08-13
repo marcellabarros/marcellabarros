@@ -1,17 +1,15 @@
-### Hey there! 👋
+### Hello, stranger! 
 
 <p align="center">
   <br>
   <br>
+  <samp> I'm <a href="https://www.linkedin.com/in/marcellabarros/">Marcella</a> </samp>
   <br>
-  <samp> I'm <a href="https://www.linkedin.com/in/marcellabarros/">Marcella</a>.<br> I'm a UI Developer from Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
-  <br>
-  <br>
-  <br>
+  <samp> I'm a Web Developer from Brazil. </samp>
   <br>
 </p>
 
-------------
-<p align="center">From <a href="https://github.com/marcellabarros">@marcellabarros</a></p>
+
+<p align="center">⭐️ <a href="https://github.com/marcellabarros">@marcellabarros</a></p>
 
 
