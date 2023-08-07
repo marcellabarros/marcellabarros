@@ -1,7 +1,7 @@
 
 <pre>
-Hello, stranger!  <br/> <br/>
-Frontend developer, chaotic good, and three-legged dog mom.
+Hello, stranger! <br/> <br/>
+Frontend developer, chaotic good, three-legged dog mom, and world's best wife.
 Likes: video games, all kinds of potatoes, drag shows, metroidvania games.
 Dislikes: when an animal doesn't like me, dota2.
 Fun fact: into satanic stuff.
