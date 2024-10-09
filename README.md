@@ -1,6 +1,6 @@
 
 <pre>
-Hello, stranger! 👋 <br/> <br/>
+Hello, stranger! <br/> <br/>
 Frontend developer from dimension C-137, chaotic good, three-legged dog mom, neuro-sparkly, and world's best wife.
 Likes: all kinds of potatoes, drag shows, metroidvania games.
 Dislikes: when an animal doesn't like me, dota2.
